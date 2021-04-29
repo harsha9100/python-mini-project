@@ -45,7 +45,7 @@
 #### High Level Requirements:
 | ID | Description | Status|
 | ---- | ---- | ---- |
-| HLR01| Using Admin mode option | Implementated |
+| HLR01| Using Admin mode option | Implemented |
 | HLR02 | Using Member mode option | Implemented |
 
 
