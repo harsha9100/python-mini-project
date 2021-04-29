@@ -34,10 +34,13 @@
 
 ### 4W's and 1'H
 #### Who:
-
+The users and admin can be able to access the system.
 #### What:
+The user's details will be recorded in the system.
 #### When:
+The user needs to register for the programme needed
 #### How:
+The system will be a well bulit-in process with security and privacy
 
 ### Detail Requirements:
 ![](Defining_our_system.png)
